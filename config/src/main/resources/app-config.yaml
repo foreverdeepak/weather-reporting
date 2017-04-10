@@ -1,0 +1,35 @@
+kafka:
+  - id: weather-queue
+    zookeeper-quorum: ["0.0.0.0:9092"]
+    kafka-brokers: ["0.0.0.0:9092"]
+
+wunderground:
+  api-url: http://api.wunderground.com/api
+  api-key: 12345
+
+rdbms:
+  - id: weather-reporting-db
+    host: localhost
+    port: 3307
+    db-name: weather
+    username: su
+    password:
+    min-pool-size: 50
+    max-pool-size: 100
+
+weather-config:
+  countries:
+    - name: US
+      topic-name: us-weather
+      cities:
+        - name: San_Fransisco
+          polling-interval: 60000
+        - name: San_Fransisco
+          polling-interval: 60000
+    - name: INDIA
+      topic-name: india-weather
+      cities:
+        - name: Gurgaon
+          polling-interval: 60000
+        - name: Delhi
+          polling-interval: 60000
