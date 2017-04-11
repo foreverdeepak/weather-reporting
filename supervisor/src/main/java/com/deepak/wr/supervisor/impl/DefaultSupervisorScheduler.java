@@ -1,7 +1,6 @@
 package com.deepak.wr.supervisor.impl;
 
 import com.deepak.wr.platform.KryoSerializer;
-import com.deepak.wr.platform.conf.WeatherConfig;
 import com.deepak.wr.platform.kafka.Producer;
 import com.deepak.wr.platform.kafka.PubsubProvider;
 import com.deepak.wr.supervisor.CityWeatherConfiguration;
