@@ -112,9 +112,9 @@ This component expose the following interfaces and provide the respective implem
 * Wunderground Response is pushed into Kafka queue/topic.
 
 ### Runner
-* Runner starts all configured in supervisors in standalone mode.
+* Runner starts all configured supervisors in standalone mode.
 * Runner loads spring java config *SupervisorConfig*  to start all the configured supervisors.
-* Number of countries and cities are hardcoded and loaded from the configuration to create all respective supervisors.
+* Number of countries and cities are not hardcoded and loaded from the configuration to create all respective supervisors.
 
 ## Worker
 * This component is responsible to create and execute country specific worker.
