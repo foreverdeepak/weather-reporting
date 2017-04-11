@@ -1,11 +1,11 @@
-package com.mckinsey.wr.platform.rest.impl;
+package com.deepak.wr.platform.rest.impl;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider;
-import com.mckinsey.wr.platform.rest.HTTPClientProxy;
+import com.deepak.wr.platform.rest.HTTPClientProxy;
 import org.apache.cxf.Bus;
 import org.apache.cxf.interceptor.LoggingInInterceptor;
 import org.apache.cxf.interceptor.LoggingOutInterceptor;

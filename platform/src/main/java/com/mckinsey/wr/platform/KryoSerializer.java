@@ -1,4 +1,4 @@
-package com.mckinsey.wr.platform;
+package com.deepak.wr.platform;
 
 import com.esotericsoftware.kryo.Kryo;
 import com.esotericsoftware.kryo.io.Input;

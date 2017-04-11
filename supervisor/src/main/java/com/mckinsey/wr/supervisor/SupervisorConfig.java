@@ -1,12 +1,12 @@
-package com.mckinsey.wr.supervisor;
+package com.deepak.wr.supervisor;
 
-import com.mckinsey.wr.platform.PlatformConfig;
-import com.mckinsey.wr.platform.conf.Config;
-import com.mckinsey.wr.platform.conf.WeatherConfig;
-import com.mckinsey.wr.platform.kafka.PubsubProvider;
-import com.mckinsey.wr.supervisor.impl.DefaultSupervisorScheduler;
-import com.mckinsey.wunderground.client.WundergroundApi;
-import com.mckinsey.wunderground.client.WundergroundClientConfig;
+import com.deepak.wr.platform.PlatformConfig;
+import com.deepak.wr.platform.conf.Config;
+import com.deepak.wr.platform.conf.WeatherConfig;
+import com.deepak.wr.platform.kafka.PubsubProvider;
+import com.deepak.wr.supervisor.impl.DefaultSupervisorScheduler;
+import com.deepak.wunderground.client.WundergroundApi;
+import com.deepak.wunderground.client.WundergroundClientConfig;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;

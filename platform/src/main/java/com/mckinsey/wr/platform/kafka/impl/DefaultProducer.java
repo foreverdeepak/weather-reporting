@@ -1,9 +1,9 @@
-package com.mckinsey.wr.platform.kafka.impl;
+package com.deepak.wr.platform.kafka.impl;
 
-import com.mckinsey.wr.platform.Serializer;
-import com.mckinsey.wr.platform.conf.Kafka;
-import com.mckinsey.wr.platform.kafka.Producer;
-import com.mckinsey.wr.platform.kafka.PubsubException;
+import com.deepak.wr.platform.Serializer;
+import com.deepak.wr.platform.conf.Kafka;
+import com.deepak.wr.platform.kafka.Producer;
+import com.deepak.wr.platform.kafka.PubsubException;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;

@@ -1,4 +1,4 @@
-package com.mckinsey.wr.platform.kafka;
+package com.deepak.wr.platform.kafka;
 
 /**
  * Created by deepakc on 10/04/17.

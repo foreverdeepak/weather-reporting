@@ -1,4 +1,4 @@
-package com.mckinsey.wr.platform.conf;
+package com.deepak.wr.platform.conf;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

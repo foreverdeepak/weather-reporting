@@ -1,14 +1,14 @@
-package com.mckinsey.wr.worker;
+package com.deepak.wr.worker;
 
-import com.mckinsey.wr.db.repository.DbConfig;
-import com.mckinsey.wr.db.repository.WeatherRepository;
-import com.mckinsey.wr.platform.Bootstrap;
-import com.mckinsey.wr.platform.KryoSerializer;
-import com.mckinsey.wr.platform.PlatformConfig;
-import com.mckinsey.wr.platform.conf.Config;
-import com.mckinsey.wr.platform.conf.WeatherConfig;
-import com.mckinsey.wr.platform.kafka.PubsubProvider;
-import com.mckinsey.wunderground.client.model.WeatherResponse;
+import com.deepak.wr.db.repository.DbConfig;
+import com.deepak.wr.db.repository.WeatherRepository;
+import com.deepak.wr.platform.Bootstrap;
+import com.deepak.wr.platform.KryoSerializer;
+import com.deepak.wr.platform.PlatformConfig;
+import com.deepak.wr.platform.conf.Config;
+import com.deepak.wr.platform.conf.WeatherConfig;
+import com.deepak.wr.platform.kafka.PubsubProvider;
+import com.deepak.wunderground.client.model.WeatherResponse;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;

@@ -1,9 +1,9 @@
-package com.mckinsey.wunderground.client;
+package com.deepak.wunderground.client;
 
-import com.mckinsey.wr.platform.PlatformConfig;
-import com.mckinsey.wr.platform.conf.Config;
-import com.mckinsey.wr.platform.conf.Wunderground;
-import com.mckinsey.wr.platform.rest.HTTPClientProxy;
+import com.deepak.wr.platform.PlatformConfig;
+import com.deepak.wr.platform.conf.Config;
+import com.deepak.wr.platform.conf.Wunderground;
+import com.deepak.wr.platform.rest.HTTPClientProxy;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;

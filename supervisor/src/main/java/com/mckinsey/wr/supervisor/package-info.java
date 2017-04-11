@@ -1,4 +1,4 @@
 /**
  * Created by deepakc on 10/04/17.
  */
-package com.mckinsey.wr.supervisor;
+package com.deepak.wr.supervisor;

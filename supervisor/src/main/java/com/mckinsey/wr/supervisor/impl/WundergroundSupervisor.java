@@ -1,9 +1,9 @@
-package com.mckinsey.wr.supervisor.impl;
+package com.deepak.wr.supervisor.impl;
 
-import com.mckinsey.wr.platform.kafka.Producer;
-import com.mckinsey.wr.supervisor.WeatherSupervisor;
-import com.mckinsey.wunderground.client.WundergroundApi;
-import com.mckinsey.wunderground.client.model.WeatherResponse;
+import com.deepak.wr.platform.kafka.Producer;
+import com.deepak.wr.supervisor.WeatherSupervisor;
+import com.deepak.wunderground.client.WundergroundApi;
+import com.deepak.wunderground.client.model.WeatherResponse;
 
 /**
  * Created by deepakc on 10/04/17.

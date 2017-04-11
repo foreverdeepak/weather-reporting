@@ -1,4 +1,4 @@
-package com.mckinsey.wunderground.client.model;
+package com.deepak.wunderground.client.model;
 
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import com.fasterxml.jackson.annotation.JsonAnySetter;

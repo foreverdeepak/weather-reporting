@@ -1,6 +1,6 @@
-package com.mckinsey.wr.supervisor;
+package com.deepak.wr.supervisor;
 
-import com.mckinsey.wr.platform.Bootstrap;
+import com.deepak.wr.platform.Bootstrap;
 
 /**
  * Created by deepakc on 10/04/17.

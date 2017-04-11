@@ -1,9 +1,9 @@
-package com.mckinsey.wr.db.repository;
+package com.deepak.wr.db.repository;
 
-import com.mckinsey.wr.db.repository.impl.WeatherRepositoryImpl;
-import com.mckinsey.wr.platform.PlatformConfig;
-import com.mckinsey.wr.platform.conf.Config;
-import com.mckinsey.wr.platform.conf.Rdbbms;
+import com.deepak.wr.db.repository.impl.WeatherRepositoryImpl;
+import com.deepak.wr.platform.PlatformConfig;
+import com.deepak.wr.platform.conf.Config;
+import com.deepak.wr.platform.conf.Rdbbms;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.context.annotation.Bean;

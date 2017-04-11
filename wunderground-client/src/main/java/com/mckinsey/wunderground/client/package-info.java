@@ -1,4 +1,4 @@
 /**
  * Created by deepakc on 10/04/17.
  */
-package com.mckinsey.wunderground.client;
+package com.deepak.wunderground.client;

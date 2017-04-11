@@ -1,4 +1,4 @@
 /**
  * Created by deepakc on 10/04/17.
  */
-package com.mckinsey.wr.db.repository.impl;
+package com.deepak.wr.db.repository.impl;

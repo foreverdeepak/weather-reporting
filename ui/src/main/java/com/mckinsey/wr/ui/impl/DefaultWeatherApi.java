@@ -1,8 +1,8 @@
-package com.mckinsey.wr.ui.impl;
+package com.deepak.wr.ui.impl;
 
-import com.mckinsey.wr.db.repository.Weather;
-import com.mckinsey.wr.db.repository.WeatherRepository;
-import com.mckinsey.wr.ui.WeatherApi;
+import com.deepak.wr.db.repository.Weather;
+import com.deepak.wr.db.repository.WeatherRepository;
+import com.deepak.wr.ui.WeatherApi;
 
 import java.util.Collection;
 

@@ -1,11 +1,11 @@
-package com.mckinsey.wr.platform;
+package com.deepak.wr.platform;
 
-import com.mckinsey.wr.platform.conf.Config;
-import com.mckinsey.wr.platform.conf.ConfigReader;
-import com.mckinsey.wr.platform.kafka.PubsubProvider;
-import com.mckinsey.wr.platform.kafka.impl.DefaultPubsubProvider;
-import com.mckinsey.wr.platform.rest.impl.DefaultHTTPClientProxy;
-import com.mckinsey.wr.platform.rest.HTTPClientProxy;
+import com.deepak.wr.platform.conf.Config;
+import com.deepak.wr.platform.conf.ConfigReader;
+import com.deepak.wr.platform.kafka.PubsubProvider;
+import com.deepak.wr.platform.kafka.impl.DefaultPubsubProvider;
+import com.deepak.wr.platform.rest.impl.DefaultHTTPClientProxy;
+import com.deepak.wr.platform.rest.HTTPClientProxy;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;

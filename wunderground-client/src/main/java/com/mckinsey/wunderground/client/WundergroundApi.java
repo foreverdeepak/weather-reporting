@@ -1,6 +1,6 @@
-package com.mckinsey.wunderground.client;
+package com.deepak.wunderground.client;
 
-import com.mckinsey.wunderground.client.model.WeatherResponse;
+import com.deepak.wunderground.client.model.WeatherResponse;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

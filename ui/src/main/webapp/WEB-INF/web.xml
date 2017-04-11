@@ -12,7 +12,7 @@
 
     <context-param>
         <param-name>contextClass</param-name>
-        <param-value>com.mckinsey.wr.ui.UiConfig</param-value>
+        <param-value>com.deepak.wr.ui.UiConfig</param-value>
     </context-param>
     
     <servlet>

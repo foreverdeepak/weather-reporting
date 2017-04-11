@@ -1,7 +1,7 @@
-package com.mckinsey.wr.db.repository.impl;
+package com.deepak.wr.db.repository.impl;
 
-import com.mckinsey.wr.db.repository.Weather;
-import com.mckinsey.wr.db.repository.WeatherRepository;
+import com.deepak.wr.db.repository.Weather;
+import com.deepak.wr.db.repository.WeatherRepository;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.transaction.annotation.Transactional;

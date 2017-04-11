@@ -1,11 +1,11 @@
-package com.mckinsey.wr.platform.kafka.impl;
+package com.deepak.wr.platform.kafka.impl;
 
-import com.mckinsey.wr.platform.Serializer;
-import com.mckinsey.wr.platform.conf.Config;
-import com.mckinsey.wr.platform.conf.Kafka;
-import com.mckinsey.wr.platform.kafka.Consumer;
-import com.mckinsey.wr.platform.kafka.Producer;
-import com.mckinsey.wr.platform.kafka.PubsubProvider;
+import com.deepak.wr.platform.Serializer;
+import com.deepak.wr.platform.conf.Config;
+import com.deepak.wr.platform.conf.Kafka;
+import com.deepak.wr.platform.kafka.Consumer;
+import com.deepak.wr.platform.kafka.Producer;
+import com.deepak.wr.platform.kafka.PubsubProvider;
 
 import java.util.HashMap;
 import java.util.Map;

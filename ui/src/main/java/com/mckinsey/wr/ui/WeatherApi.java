@@ -1,6 +1,6 @@
-package com.mckinsey.wr.ui;
+package com.deepak.wr.ui;
 
-import com.mckinsey.wr.db.repository.Weather;
+import com.deepak.wr.db.repository.Weather;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

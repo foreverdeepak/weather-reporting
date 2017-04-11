@@ -1,4 +1,4 @@
-package com.mckinsey.wr.db.repository;
+package com.deepak.wr.db.repository;
 
 import java.util.Date;
 

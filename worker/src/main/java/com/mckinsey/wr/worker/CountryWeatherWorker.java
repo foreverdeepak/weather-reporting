@@ -1,8 +1,8 @@
-package com.mckinsey.wr.worker;
+package com.deepak.wr.worker;
 
-import com.mckinsey.wr.db.repository.WeatherRepository;
-import com.mckinsey.wr.platform.kafka.Consumer;
-import com.mckinsey.wunderground.client.model.WeatherResponse;
+import com.deepak.wr.db.repository.WeatherRepository;
+import com.deepak.wr.platform.kafka.Consumer;
+import com.deepak.wunderground.client.model.WeatherResponse;
 
 import java.util.Date;
 

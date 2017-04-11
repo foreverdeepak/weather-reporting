@@ -1,4 +1,4 @@
-package com.mckinsey.wr.platform.conf;
+package com.deepak.wr.platform.conf;
 
 /**
  * Created by deepakc on 10/04/17.

@@ -1,7 +1,7 @@
-package com.mckinsey.wr.platform.kafka;
+package com.deepak.wr.platform.kafka;
 
 
-import com.mckinsey.wr.platform.Serializer;
+import com.deepak.wr.platform.Serializer;
 
 /**
  * Created by deepakc on 10/04/17.

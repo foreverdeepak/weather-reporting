@@ -1,4 +1,4 @@
-package com.mckinsey.wr.platform.rest;
+package com.deepak.wr.platform.rest;
 
 /**
  * Created by deepakc on 10/04/17.

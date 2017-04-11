@@ -1,4 +1,4 @@
-package com.mckinsey.wr.platform;
+package com.deepak.wr.platform;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

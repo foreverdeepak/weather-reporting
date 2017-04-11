@@ -1,14 +1,14 @@
-package com.mckinsey.wr.supervisor.impl;
+package com.deepak.wr.supervisor.impl;
 
-import com.mckinsey.wr.platform.KryoSerializer;
-import com.mckinsey.wr.platform.conf.WeatherConfig;
-import com.mckinsey.wr.platform.kafka.Producer;
-import com.mckinsey.wr.platform.kafka.PubsubProvider;
-import com.mckinsey.wr.supervisor.CityWeatherConfiguration;
-import com.mckinsey.wr.supervisor.SupervisorScheduler;
-import com.mckinsey.wr.supervisor.WeatherSupervisor;
-import com.mckinsey.wunderground.client.WundergroundApi;
-import com.mckinsey.wunderground.client.model.WeatherResponse;
+import com.deepak.wr.platform.KryoSerializer;
+import com.deepak.wr.platform.conf.WeatherConfig;
+import com.deepak.wr.platform.kafka.Producer;
+import com.deepak.wr.platform.kafka.PubsubProvider;
+import com.deepak.wr.supervisor.CityWeatherConfiguration;
+import com.deepak.wr.supervisor.SupervisorScheduler;
+import com.deepak.wr.supervisor.WeatherSupervisor;
+import com.deepak.wunderground.client.WundergroundApi;
+import com.deepak.wunderground.client.model.WeatherResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -1,9 +1,9 @@
-package com.mckinsey.wr.ui;
+package com.deepak.wr.ui;
 
-import com.mckinsey.wr.db.repository.DbConfig;
-import com.mckinsey.wr.db.repository.WeatherRepository;
-import com.mckinsey.wr.platform.PlatformConfig;
-import com.mckinsey.wr.ui.impl.DefaultWeatherApi;
+import com.deepak.wr.db.repository.DbConfig;
+import com.deepak.wr.db.repository.WeatherRepository;
+import com.deepak.wr.platform.PlatformConfig;
+import com.deepak.wr.ui.impl.DefaultWeatherApi;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
